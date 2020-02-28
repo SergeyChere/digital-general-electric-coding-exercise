@@ -20,14 +20,8 @@
       <change afterPath="$PROJECT_DIR$/../codevalue-java-coding-exercise/src/main/java/com/example/demo/model/Tank.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../codevalue-java-coding-exercise/src/main/java/com/example/demo/services/WaterManipulationService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../codevalue-java-coding-exercise/src/main/java/com/example/demo/services/WaterManipulationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/VehicleAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/runner/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/VehicleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/VehicleServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../eight-queens-puzzle/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../eight-queens-puzzle/eight-queens-puzzle.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../eight-queens-puzzle/src/Test.java" afterDir="false" />
@@ -60,6 +54,14 @@
       <change beforePath="$PROJECT_DIR$/../coffe-shop-sandbox/coffee-shop-sandbox" beforeDir="false" afterPath="$PROJECT_DIR$/../coffe-shop-sandbox/coffee-shop-sandbox" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../coffee-shop-final/coffee-shop-sandbox" beforeDir="false" afterPath="$PROJECT_DIR$/../coffee-shop-final/coffee-shop-sandbox" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cool-team-project" beforeDir="false" afterPath="$PROJECT_DIR$/../cool-team-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/runner/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/runner/Runner.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../github/cv_bank_sandbox" beforeDir="false" afterPath="$PROJECT_DIR$/../github/cv_bank_sandbox" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../github/security-developer" beforeDir="false" afterPath="$PROJECT_DIR$/../github/security-developer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../github/security-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../github/security-practice" afterDir="false" />
@@ -80,43 +82,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/Vehicle.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="134" column="13" lean-forward="true" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+            <state relative-caret-position="247">
+              <caret line="143" column="66" selection-start-line="143" selection-start-column="66" selection-end-line="143" selection-end-column="66" />
               <folding>
-                <element signature="method#Vehicle#1;class#Vehicle#0" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#751#752#0" expanded="true" />
-                <element signature="e#1224#1225#0" expanded="true" />
-                <element signature="e#1276#1277#0" expanded="true" />
-                <element signature="e#1325#1326#0" expanded="true" />
-                <element signature="e#1363#1364#0" expanded="true" />
-                <element signature="method#toString#0;class#Motorcycle#0;class#Vehicle#0" />
-                <element signature="e#2304#2305#0" expanded="true" />
-                <element signature="e#2373#2374#0" expanded="true" />
-                <element signature="method#Truck#1;class#Truck#0;class#Car#0" />
-                <element signature="e#3540#3541#0" expanded="true" />
-                <element signature="e#3607#3608#0" expanded="true" />
-                <element signature="method#toString#0;class#Vehicle#0" />
-                <element signature="class#Builder#0;class#Vehicle#0" />
-                <element signature="e#5334#5335#0" expanded="true" />
-                <element signature="e#5382#5383#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1134#2140#1" />
+                <element signature="e#6519#6580#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/runner/Runner.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/service/VehicleServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#createAutomobiles#0;class#Runner#0" />
-                <element signature="e#203#232#0" />
+                <element signature="method#createTruck#0;class#VehicleServiceImpl#0" />
+                <element signature="method#createCar#0;class#VehicleServiceImpl#0" />
+                <element signature="method#createMotorcycle#0;class#VehicleServiceImpl#0" />
+                <element signature="method#changeStatusOfVehicle#0;class#VehicleServiceImpl#0" />
+                <element signature="method#getListOfVehiclesSortedByYear#0;class#VehicleServiceImpl#0" />
+                <element signature="method#getListOfVehiclesByStatus#0;class#VehicleServiceImpl#0" />
+                <element signature="method#getListOfVehiclesByKeyword#0;class#VehicleServiceImpl#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/service/VehicleService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,8 +133,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -139,23 +144,26 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/model/Type.java" />
-        <option value="$PROJECT_DIR$/src/model/Status.java" />
         <option value="$PROJECT_DIR$/src/model/VehicleModel.java" />
         <option value="$PROJECT_DIR$/src/test/B.java" />
         <option value="$PROJECT_DIR$/src/test/A.java" />
         <option value="$PROJECT_DIR$/src/model/Car.java" />
         <option value="$PROJECT_DIR$/src/model/VehicleAbstract.java" />
         <option value="$PROJECT_DIR$/src/model/Builder.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/model/IBuilderVehicle.java" />
         <option value="$PROJECT_DIR$/src/model/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/service/ComparatorVehicle.java" />
         <option value="$PROJECT_DIR$/src/runner/Runner.java" />
+        <option value="$PROJECT_DIR$/src/model/Type.java" />
+        <option value="$PROJECT_DIR$/src/model/Status.java" />
+        <option value="$PROJECT_DIR$/src/service/VehicleService.java" />
+        <option value="$PROJECT_DIR$/src/service/VehicleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -194,7 +202,7 @@
               <item name="digital-general-electric-test-task" type="b2602c69:ProjectViewProjectNode" />
               <item name="digital-general-electric-test-task" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,6 +224,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="service" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sergii\Desktop\projects Tel ran\digital-general-electric-test-task\src" />
     </key>
@@ -256,15 +267,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582889386735</updated>
-      <workItem from="1582889389629" duration="18839000" />
+      <workItem from="1582889389629" duration="33712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18839000" />
+    <option name="totallyTimeSpent" value="33712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -272,7 +283,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -282,8 +293,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32981783" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3767977" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.72962606" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39980826" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -302,20 +313,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/model/Type.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Status.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -345,23 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/VehicleAbstract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/model/IBuilderVehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -369,40 +349,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/VehicleAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/model/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="134" column="13" lean-forward="true" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+        <state relative-caret-position="204">
+          <caret line="134" column="13" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/ComparatorVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
-            <element signature="method#Vehicle#1;class#Vehicle#0" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
-            <element signature="e#1224#1225#0" expanded="true" />
-            <element signature="e#1276#1277#0" expanded="true" />
-            <element signature="e#1325#1326#0" expanded="true" />
-            <element signature="e#1363#1364#0" expanded="true" />
-            <element signature="method#toString#0;class#Motorcycle#0;class#Vehicle#0" />
-            <element signature="e#2304#2305#0" expanded="true" />
-            <element signature="e#2373#2374#0" expanded="true" />
-            <element signature="method#Truck#1;class#Truck#0;class#Car#0" />
-            <element signature="e#3540#3541#0" expanded="true" />
-            <element signature="e#3607#3608#0" expanded="true" />
-            <element signature="method#toString#0;class#Vehicle#0" />
-            <element signature="class#Builder#0;class#Vehicle#0" />
-            <element signature="e#5334#5335#0" expanded="true" />
-            <element signature="e#5382#5383#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/runner/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+        <state>
+          <caret selection-end-line="11" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#createAutomobiles#0;class#Runner#0" />
-            <element signature="e#203#232#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/VehicleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#createTruck#0;class#VehicleServiceImpl#0" />
+            <element signature="method#createCar#0;class#VehicleServiceImpl#0" />
+            <element signature="method#createMotorcycle#0;class#VehicleServiceImpl#0" />
+            <element signature="method#changeStatusOfVehicle#0;class#VehicleServiceImpl#0" />
+            <element signature="method#getListOfVehiclesSortedByYear#0;class#VehicleServiceImpl#0" />
+            <element signature="method#getListOfVehiclesByStatus#0;class#VehicleServiceImpl#0" />
+            <element signature="method#getListOfVehiclesByKeyword#0;class#VehicleServiceImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/VehicleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="143" column="66" selection-start-line="143" selection-start-column="66" selection-end-line="143" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1134#2140#1" />
+            <element signature="e#6519#6580#0" />
           </folding>
         </state>
       </provider>
