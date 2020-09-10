@@ -2,75 +2,939 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15d3847e-4be7-4de2-a1ff-3a6a4f01e1aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MyFirstWebProject/src/main/java/servlets/MyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../async-test/src/main/java/async/demo/config/AsyncConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../async-test/src/main/java/async/demo/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../async-test/src/main/java/async/demo/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../async-test/src/main/java/async/demo/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../async-test/src/main/java/async/demo/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat-multithreading/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat-multithreading/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat-multithreading/client/client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat-multithreading/client/src/com/chat/client/ClientWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat-multithreading/network/network.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat-multithreading/network/src/com/chat/metwork/TCPConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat-multithreading/network/src/com/chat/metwork/TCPConnectionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat-multithreading/server/server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat-multithreading/server/src/com/chat/server/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../codevalue-java-coding-exercise/src/main/java/com/example/demo/model/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../codevalue-java-coding-exercise/src/main/java/com/example/demo/services/WaterManipulationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../codevalue-java-coding-exercise/src/main/java/com/example/demo/services/WaterManipulationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/VehicleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/VehicleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eight-queens-puzzle/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eight-queens-puzzle/eight-queens-puzzle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eight-queens-puzzle/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../four-queens/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../four-queens/answers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../four-queens/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library-fenix/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-first-web-project/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-first-web-project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-first-web-project/src/main/java/servlets/MyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-first-web-project/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/jdbc-database-connection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/sql/create-user-table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/dao/DataDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/dao/DataDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/model/DataTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/model/MGA_DC_BANKS_ACTIVITY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/model/MGA_DC_DEBTS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/model/MGA_DC_DEBTS_ACTIVITIES.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/model/MGA_DC_LOAD_GROUPS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/utils/JDBCUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Andrey/contact-book" beforeDir="false" afterPath="$PROJECT_DIR$/../Andrey/contact-book" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED/java-1h-angular-fullstack" beforeDir="false" afterPath="$PROJECT_DIR$/../ED/java-1h-angular-fullstack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pasha/Contact_project" beforeDir="false" afterPath="$PROJECT_DIR$/../Pasha/Contact_project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coffe-shop-sandbox/coffee-shop-sandbox" beforeDir="false" afterPath="$PROJECT_DIR$/../coffe-shop-sandbox/coffee-shop-sandbox" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coffee-shop-final/coffee-shop-sandbox" beforeDir="false" afterPath="$PROJECT_DIR$/../coffee-shop-final/coffee-shop-sandbox" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cool-team-project" beforeDir="false" afterPath="$PROJECT_DIR$/../cool-team-project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/.idea/AnsibleFilebeatFINAL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/DevOps/java/CIReport/CIReport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/DevOps/java/RadComTestAutomation/RadComTestAutomation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/DevOps/java/RadComTestAutomation/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/DevOps/java/RadComTestAutomation/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt-Obsolete/QRouterFallbackSites-Obsolete/fallback_sites/fallback_sites_menus/.idea/fallback_sites_configuration_menus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt-Obsolete/QRouterFallbackSites-Obsolete/fallback_sites/fallback_sites_menus/.idea/fallback_sites_menus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt-Obsolete/QRouterTrafficDirection-Obsolete/traffic_direction/traffic_direction_menus/.idea/traffic_direction_menus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt-Obsolete/RadcomJavaCommon-Obsolete/RadcomJavaCommon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Automation/RESTAPITests/ConductorDynamicDependenciesAnsible/.idea/ConductorDynamicDependenciesAnsible.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Cognos/Cognos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Cognos/Cognos.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Cognos/CognosParser/cognosParser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Cognos/CognosParser/cognosParser.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Cognos/CognosSVN/CognosSVN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Cognos/CognosSVN/CognosSVN.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Cognos/TableDataParser/tableDataParser.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Dashboard/Dashboard.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Dashboard/Junit/Junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Dashboard/ejb/ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Dashboard/har/har.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Dashboard/sar/sar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Dashboard/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Dashboard/web/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Junit/Junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Login/Login.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Login/common-web/common-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Login/common/common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Login/ejb/ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Login/har/har.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Login/web/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/MaveriQGeoRedundancy/geo_redundancy/geo_redundancy_menus/.idea/geo_redundancy_menus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/MaveriQGeoRedundancy/geo_redundancy/scripts/.idea/scripts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/MaveriQLibrarian/LibrarianInfraModules/src/Utils/.idea/GeneralHelpers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/MaveriQUpgradeFlows/upgrade/FlowsWorkspace/.idea/FlowsWorkspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/MaveriQUpgradeFlows/upgrade/UpgradeFlows/.idea/UpgradeFlows.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/OmniQ/OmniQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/OmniQ/OmniQ.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/SIMPLECDRSIMULATOR/SimpleCDRSimulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/SIMPLECDRSIMULATOR/SimpleCDRSimulator.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Utils/jaxb/jaxb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Utils/jaxb/jaxb.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/WebWrapper/WebWrapper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/WebWrapper/WebWrapper.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Webmonitor/monitor_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Mgmt/Webmonitor/monitor_server.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Services/PostProcessing-Obsolete/ppDataService/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Services/PostProcessing-Obsolete/ppDataService/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Services/PostProcessing-Obsolete/ppGateway/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Services/PostProcessing-Obsolete/ppGateway/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Services/PostProcessing-Obsolete/ppHealthMonitor/ppHealthMonitor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Services/PostProcessing-Obsolete/ppProcessor/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Services/PostProcessing-Obsolete/ppProcessor/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnsibleFilebeatFINAL/Tools/CDRGenerator/src/CDRGenerator/Queues/Queues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/Conductor-Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/artifacts/TopologyMS_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/artifacts/TopologyMS_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/artifacts/id_generator_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/artifacts/id_generator_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/artifacts/maveriq_conductor_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/artifacts/maveriq_conductor_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__asm_asm_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_mysema_codegen_codegen_0_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_mysema_commons_mysema_commons_lang_0_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_mysema_querydsl_querydsl_apt_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_mysema_querydsl_querydsl_codegen_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_mysema_querydsl_querydsl_core_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_mysema_querydsl_querydsl_mongodb_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_radcom_maveriq_common_utils_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_radcom_maveriq_data_maveriq_data_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_radcom_maveriq_infra_thread_thread_infra_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_radcom_maveriq_persistency_document_data_access_1_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_radcom_maveriq_persistency_document_data_access_1_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_1_2_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_1_2_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jul_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_eclipse_jdt_core_compiler_ecj_3_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_jboss_netty_netty_3_2_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j2_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_springframework_spring_websocket_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_webbitserver_webbit_0_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/libraries/Maven__uk_com_robust_it_cloning_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/maveriq-conductor/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conductor-Test/maveriq-conductor/ip.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/artifacts/maveriq_guardian_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/artifacts/maveriq_guardian_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_apache_logging_log4j_log4j_1_2_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_jboss_resteasy_jaxrs_api_3_0_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_jboss_resteasy_resteasy_jaxrs_3_0_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_1_spec_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/guardian-chart/templates/guardian-configmap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/guardian-chart/templates/guardian-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/guardian-chart/templates/guardian-service.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriQGuardian/maveriq-guardian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriqManager/.idea/MaveriqManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaveriqManagerWithIndicators/.idea/MaveriqManagerWithIndicators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Automation/RESTAPITests/ConductorDynamicDependenciesAnsible/.idea/ConductorDynamicDependenciesAnsible.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Cognos/Cognos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Cognos/Cognos.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Cognos/CognosParser/cognosParser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Cognos/CognosParser/cognosParser.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Cognos/CognosSVN/CognosSVN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Cognos/CognosSVN/CognosSVN.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Cognos/TableDataParser/tableDataParser.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Dashboard/Dashboard.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Dashboard/Junit/Junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Dashboard/ejb/ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Dashboard/har/har.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Dashboard/sar/sar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Dashboard/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Dashboard/web/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/DocumentDataAccess/document-data-access.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Junit/Junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Login/Login.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Login/common-web/common-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Login/common/common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Login/ejb/ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Login/har/har.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Login/web/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQConductor/maveriq-conductor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQData/maveriq-data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQGeoRedundancy/geo_redundancy/geo_redundancy_menus/.idea/geo_redundancy_menus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQGeoRedundancy/geo_redundancy/scripts/.idea/scripts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQHealthInfra/maveriq-health-infra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQIDGenerator/MaveriQIDGenerator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQInfra/maveriq-infra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQJaxb/maveriq-jaxb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQLibrarian/LibrarianInfraModules/src/Utils/.idea/GeneralHelpers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQManagement/maveriq-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQUpgradeFlows/upgrade/FlowsWorkspace/.idea/FlowsWorkspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/MaveriQUpgradeFlows/upgrade/UpgradeFlows/.idea/UpgradeFlows.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/OmniQ/OmniQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/OmniQ/OmniQ.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/QRouterFallbackSites/fallback_sites/fallback_sites_menus/.idea/fallback_sites_configuration_menus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/QRouterFallbackSites/fallback_sites/fallback_sites_menus/.idea/fallback_sites_menus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/QRouterTrafficDirection/traffic_direction/traffic_direction_menus/.idea/traffic_direction_menus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/RadcomJavaCommon/RadcomJavaCommon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/RadcomJavaCommon/common-utils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/SIMPLECDRSIMULATOR/SimpleCDRSimulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/SIMPLECDRSIMULATOR/SimpleCDRSimulator.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/ThreadInfra/thread-infra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/TopologyMS/TopologyMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Utils/jaxb/jaxb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Utils/jaxb/jaxb.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/WebWrapper/WebWrapper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/WebWrapper/WebWrapper.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Webmonitor/monitor_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/Webmonitor/monitor_server.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwaggerForCommit/maveriq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/maveriq-whitelist-cli.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/easy_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/build_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/cli/autocompletion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/cli/cmdoptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/cli/main_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/cli/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/cli/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/distributions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/distributions/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/distributions/installed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/distributions/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/models/candidate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/models/format_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/models/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/models/link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/models/search_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/models/selection_prefs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/models/target_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/operations/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/pyproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/req/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/req/constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/req/req_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/req/req_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/filesystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/glibc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/packaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/setuptools_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/temp_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/utils/virtualenv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/vcs/git.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_internal/vcs/versioncontrol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/big5freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/big5prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/charsetgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/cp949prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/escprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/eucjpprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/euckrfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/gb2312freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/hebrewprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/jpcntx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/langgreekmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/langhungarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/langturkishmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/sbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/sjisprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/colorama/ansi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/colorama/ansitowin32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/colorama/initialise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/_backport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/_backport/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/_backport/shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/_backport/tarfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distlib/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/distro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/_ihatexml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/_inputstream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/_tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/_trie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/_trie/_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/_trie/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/filters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/filters/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/filters/lint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/filters/whitespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/ipaddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/msgpack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/msgpack/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/msgpack/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/msgpack/fallback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/pep517/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/pep517/_in_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/pep517/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/pep517/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/pep517/colorlog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/pep517/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/pep517/envbuild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/pep517/wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/progress/bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/progress/counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/retrying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/appengine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/util/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/urllib3/util/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/webencodings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/webencodings/labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/webencodings/mklabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/webencodings/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/pkg_resources/extern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_deprecation_warning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/archive_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/build_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/cli-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/cli-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/cli.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/alias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/bdist_rpm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/bdist_wininst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/build_clib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/build_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/build_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/develop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/dist_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/easy_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/install_egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/install_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/install_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/launcher manifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/py36compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/rotate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/saveopts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/sdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/setopt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/command/upload_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/dep_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/depends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/extern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/glob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/gui-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/gui-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/gui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/launch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/lib2to3_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/monkey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/msvc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/namespaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/package_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/sandbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/script (dev).tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/script.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/ssl_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/unicode_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Lib/site-packages/setuptools/windows_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Scripts/easy_install-3.8.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Scripts/easy_install.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Scripts/pip3.8.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteListCli/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wizard/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wizard/.idea/Wizard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wizard/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wizard/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wizard/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wizard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wizard/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wizard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wizard/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wizard/maveriq-flow-wizard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/Analyst.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/artifacts/indicators_REST_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/artifacts/indicators_REST_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_ibm_jbatch_com_ibm_jbatch_tck_spi_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_mangofactory_swagger_models_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_mangofactory_swagger_springmvc_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_radcom_external_oracle_OracleThinJDBCDriver_12_1_0_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_radcom_indicators_data_access_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_radcom_indicators_services_1_47_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_radcom_indicators_services_1_48_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__com_wordnik_swagger_annotations_1_3_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__javax_batch_javax_batch_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__joda_time_joda_time_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__joda_time_joda_time_2_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_hsqldb_hsqldb_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_mongodb_mongo_java_driver_2_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_snmp4j_snmp4j_2_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_batch_spring_batch_core_3_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_3_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_batch_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_batch_1_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j2_1_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_12_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_9_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_core_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_test_4_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyst/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guardian-tamar/.idea/guardian-tamar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guardian-tamar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guardian-tamar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guardian-tamar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guardian-tamar/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guardian-tamar/maveriq-guardian/maveriq-guardian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../id-generator-michael/id-generator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maveriq-guardian/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maveriq-guardian/maveriq-guardian-chart/templates/maveriq-guardian-configmap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maveriq-guardian/maveriq-guardian-chart/templates/maveriq-guardian-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maveriq-guardian/maveriq-guardian-chart/templates/maveriq-guardian-service.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maveriq-guardian/maveriq-guardian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pp-service/.idea/pp-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Automation/RESTAPITests/ConductorDynamicDependenciesAnsible/.idea/ConductorDynamicDependenciesAnsible.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Cognos/Cognos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Cognos/Cognos.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Cognos/CognosParser/cognosParser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Cognos/CognosParser/cognosParser.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Cognos/CognosSVN/CognosSVN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Cognos/CognosSVN/CognosSVN.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Cognos/TableDataParser/tableDataParser.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Dashboard/Dashboard.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Dashboard/Junit/Junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Dashboard/ejb/ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Dashboard/har/har.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Dashboard/sar/sar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Dashboard/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Dashboard/web/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Junit/Junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Login/Login.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Login/common-web/common-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Login/common/common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Login/ejb/ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Login/har/har.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Login/web/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/MaveriQGeoRedundancy/geo_redundancy/geo_redundancy_menus/.idea/geo_redundancy_menus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/MaveriQGeoRedundancy/geo_redundancy/scripts/.idea/scripts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/MaveriQLibrarian/LibrarianInfraModules/src/Utils/.idea/GeneralHelpers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/MaveriQUpgradeFlows/upgrade/FlowsWorkspace/.idea/FlowsWorkspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/MaveriQUpgradeFlows/upgrade/UpgradeFlows/.idea/UpgradeFlows.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/OmniQ/OmniQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/OmniQ/OmniQ.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/SIMPLECDRSIMULATOR/SimpleCDRSimulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/SIMPLECDRSIMULATOR/SimpleCDRSimulator.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Utils/jaxb/jaxb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Utils/jaxb/jaxb.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/WebWrapper/WebWrapper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/WebWrapper/WebWrapper.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Webmonitor/monitor_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/Webmonitor/monitor_server.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tls2/maveriq.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/runner/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/runner/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github/cv_bank_sandbox" beforeDir="false" afterPath="$PROJECT_DIR$/../github/cv_bank_sandbox" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github/security-developer" beforeDir="false" afterPath="$PROJECT_DIR$/../github/security-developer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github/security-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../github/security-practice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpa-database-test" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa-database-test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-contacts" beforeDir="false" afterPath="$PROJECT_DIR$/../my-contacts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../up-and-go-project" beforeDir="false" afterPath="$PROJECT_DIR$/../up-and-go-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/META-INF/digital-general-electric-test-task.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/model/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/model/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/model/Vehicle$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/model/Vehicle$Car$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/model/Vehicle$Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/model/Vehicle$Motorcycle$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/model/Vehicle$Motorcycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/model/Vehicle$Truck$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/model/Vehicle$Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/model/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/model/VehicleAbstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/service/VehicleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/service/VehicleServiceImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digital-general-electric-test-task/service/VehicleServiceImpl.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,55 +943,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="143" column="66" selection-start-line="143" selection-start-column="66" selection-end-line="143" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1134#2140#1" />
-                <element signature="e#6519#6580#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/service/VehicleServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#createTruck#0;class#VehicleServiceImpl#0" />
-                <element signature="method#createCar#0;class#VehicleServiceImpl#0" />
-                <element signature="method#createMotorcycle#0;class#VehicleServiceImpl#0" />
-                <element signature="method#changeStatusOfVehicle#0;class#VehicleServiceImpl#0" />
-                <element signature="method#getListOfVehiclesSortedByYear#0;class#VehicleServiceImpl#0" />
-                <element signature="method#getListOfVehiclesByStatus#0;class#VehicleServiceImpl#0" />
-                <element signature="method#getListOfVehiclesByKeyword#0;class#VehicleServiceImpl#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/service/VehicleService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -138,34 +953,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>extraSit</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/model/VehicleModel.java" />
-        <option value="$PROJECT_DIR$/src/test/B.java" />
-        <option value="$PROJECT_DIR$/src/test/A.java" />
-        <option value="$PROJECT_DIR$/src/model/Car.java" />
-        <option value="$PROJECT_DIR$/src/model/VehicleAbstract.java" />
-        <option value="$PROJECT_DIR$/src/model/Builder.java" />
-        <option value="$PROJECT_DIR$/src/model/IBuilderVehicle.java" />
-        <option value="$PROJECT_DIR$/src/model/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/service/ComparatorVehicle.java" />
-        <option value="$PROJECT_DIR$/src/runner/Runner.java" />
-        <option value="$PROJECT_DIR$/src/model/Type.java" />
-        <option value="$PROJECT_DIR$/src/model/Status.java" />
-        <option value="$PROJECT_DIR$/src/service/VehicleService.java" />
-        <option value="$PROJECT_DIR$/src/service/VehicleServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
@@ -173,75 +962,34 @@
     <option name="width" value="1696" />
     <option name="height" value="1026" />
   </component>
+  <component name="ProjectId" id="1hKP8C9ACDMIodUuIzDlHI0htBN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="digital-general-electric-test-task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="digital-general-electric-test-task" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="digital-general-electric-test-task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="digital-general-electric-test-task" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="digital-general-electric-test-task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="digital-general-electric-test-task" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="digital-general-electric-test-task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="digital-general-electric-test-task" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="service" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\digital-general-electric-coding-exercise\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sergii\Desktop\projects Tel ran\digital-general-electric-test-task\src" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="service" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -268,227 +1016,46 @@
       <option name="presentableId" value="Default" />
       <updated>1582889386735</updated>
       <workItem from="1582889389629" duration="33712000" />
+      <workItem from="1599756649881" duration="1953000" />
+      <workItem from="1599758641630" duration="989000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33712000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32981783" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.72962606" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39980826" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#100#101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Builder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/IBuilderVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/VehicleAbstract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="134" column="13" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/service/ComparatorVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/runner/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Status.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Type.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/service/VehicleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#createTruck#0;class#VehicleServiceImpl#0" />
-            <element signature="method#createCar#0;class#VehicleServiceImpl#0" />
-            <element signature="method#createMotorcycle#0;class#VehicleServiceImpl#0" />
-            <element signature="method#changeStatusOfVehicle#0;class#VehicleServiceImpl#0" />
-            <element signature="method#getListOfVehiclesSortedByYear#0;class#VehicleServiceImpl#0" />
-            <element signature="method#getListOfVehiclesByStatus#0;class#VehicleServiceImpl#0" />
-            <element signature="method#getListOfVehiclesByKeyword#0;class#VehicleServiceImpl#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/service/VehicleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="143" column="66" selection-start-line="143" selection-start-column="66" selection-end-line="143" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1134#2140#1" />
-            <element signature="e#6519#6580#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="499" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599759591099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1599759591099" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599759539306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599759539306" />
+    <state width="1493" height="500" key="GridCell.Tab.0.bottom" timestamp="1599758603647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="500" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599758603647" />
+    <state width="1493" height="500" key="GridCell.Tab.0.center" timestamp="1599758603647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="500" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599758603647" />
+    <state width="1493" height="500" key="GridCell.Tab.0.left" timestamp="1599758603647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="500" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599758603647" />
+    <state width="1493" height="500" key="GridCell.Tab.0.right" timestamp="1599758603647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="500" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599758603647" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1599759637588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599759637588" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1599756736121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1599756736121" />
   </component>
 </project>
