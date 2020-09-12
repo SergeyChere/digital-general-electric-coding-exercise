@@ -1,0 +1,11 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: {{.Release.Name}}-srv
+spec:
+  selector:
+    app: {{.Release.Name}}
+  ports:
+    - port: {{.Values.port}}
+      targetPort: {{.Values.port}}
+  type: {{.Values.clusterType}}

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15d3847e-4be7-4de2-a1ff-3a6a4f01e1aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/k8s/general-electric-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/general-electric-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k8s/general-electric-deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k8s/general-electric-service.yaml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,21 +18,27 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/k8s/general-electric-deployment.yaml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/general-electric-chart/templates/general-electric-deployment.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+            <state relative-caret-position="170">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding>
+                <element signature="e#141#161#1#GoTemplate" expanded="true" />
+                <element signature="e#339#356#1#GoTemplate" expanded="true" />
+                <element signature="e#368#381#1#GoTemplate" expanded="true" />
+                <element signature="e#449#461#1#GoTemplate" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/k8s/general-electric-service.yaml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/general-electric-chart/values.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="51">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -55,6 +62,10 @@
       <list>
         <option value="$PROJECT_DIR$/k8s/general-electric-service.yaml" />
         <option value="$PROJECT_DIR$/k8s/general-electric-deployment.yaml" />
+        <option value="$PROJECT_DIR$/general-electric-chart/templates/general-electric-service.yaml" />
+        <option value="$PROJECT_DIR$/general-electric-chart/templates/general-electric-deployment.yaml" />
+        <option value="$PROJECT_DIR$/general-electric-chart/values.yaml" />
+        <option value="$PROJECT_DIR$/general-electric-chart/Chart.yaml" />
       </list>
     </option>
   </component>
@@ -71,7 +82,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,11 +90,22 @@
               <item name="digital-general-electric-coding-exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="digital-general-electric-coding-exercise" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="digital-general-electric-coding-exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="digital-general-electric-coding-exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="general-electric-chart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="digital-general-electric-coding-exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="digital-general-electric-coding-exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="general-electric-chart" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -101,17 +123,18 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\work\digital-general-electric-coding-exercise\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sergii\Desktop\projects Tel ran\digital-general-electric-test-task\src" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="service" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\digital-general-electric-coding-exercise\general-electric-chart\templates" />
+      <recent name="C:\work\digital-general-electric-coding-exercise\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -155,17 +178,19 @@
       <workItem from="1599758641630" duration="989000" />
       <workItem from="1599849550631" duration="116000" />
       <workItem from="1599849680721" duration="2522000" />
+      <workItem from="1599909766106" duration="760000" />
+      <workItem from="1599910543984" duration="366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2638000" />
+    <option name="totallyTimeSpent" value="3764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -197,6 +222,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599759591099">
@@ -250,17 +280,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/k8s/general-electric-deployment.yaml">
+    <entry file="file://$PROJECT_DIR$/general-electric-chart/templates/general-electric-service.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#137#149#1#GoTemplate" expanded="true" />
+            <element signature="e#172#184#1#GoTemplate" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/k8s/general-electric-service.yaml">
+    <entry file="file://$PROJECT_DIR$/general-electric-chart/values.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general-electric-chart/Chart.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general-electric-chart/templates/general-electric-deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#141#161#1#GoTemplate" expanded="true" />
+            <element signature="e#339#356#1#GoTemplate" expanded="true" />
+            <element signature="e#368#381#1#GoTemplate" expanded="true" />
+            <element signature="e#449#461#1#GoTemplate" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
